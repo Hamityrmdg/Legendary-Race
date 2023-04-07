@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 62fe408115008e04a9807e179fbda1da
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Voltec
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 504e5e93964e47e49af19928f311c5c9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
